@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/94ad87c5-0900-4b8c-aa84-5b024e67d806/resourceGroups/appsvc_rg_linux_centralus/providers/Microsoft.Web/sites/vscodelinuxweb",
+    "appService.deploySubpath": "target/spring-boot-web-jsp-1.0.war"
+}
